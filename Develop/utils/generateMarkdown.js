@@ -32,13 +32,13 @@ function generateMarkdown(data) {
   ## Description
   - ${data.description}
 
-    
   ## Table of Contents
+  - [License](#licensing)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Contributions](#contributions)
-  - [Testing](#testing)
-  - [License](#licensing)
+  - [Testing](#tests)
+  - [Questions](#questions)
 
   ## License 
   - ${renderLicenseBadge(data.license)}
