@@ -3,9 +3,6 @@ const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('./utils/generateMarkdown.js');
 
-// Application Variables 
-
-
 // TODO: Create an array of questions for user input
 const questions = [
     
@@ -91,7 +88,7 @@ function writeToFile(fileName, data) {
             throw err;
         console.log('Success! Your README file is ready!')
     });
-}
+};
 
 // TODO: Create a function to initialize app
 function init() {
@@ -100,7 +97,7 @@ function init() {
         console.log(userInput)
         writeToFile("README.md", generateMarkdown(userInput));
     });
-}
+};
 
 // Function call to initialize app
 init();
