@@ -27,4 +27,4 @@ This command-line application runs using Node.js and is designed to dynamically 
 * Step 4: Locate your professional README.md in the project directory. 
 
 ## Application Tutorial 
-[README-ready720.mov.zip](https://github.com/janellephalon/README-ready/files/8119947/README-ready720.mov.zip)
+https://drive.google.com/file/d/1OuBOSnFvKtYBDx5OHOtScvW6KUHTutfT/view?usp=sharing
